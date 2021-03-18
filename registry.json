@@ -129,11 +129,6 @@
 				"name": "NEWFI"
 			},
 			"21": {
-				"pool_id": "afd458ac6ca85bbf719e0a7930461d711893edef07d3cedf33c4784e",
-				"member_since": "2021-03-05",
-				"name": "BELGA"
-			},
-			"22": {
 				"pool_id": "3e5ae2ec8480ad2e036ae459eece026e98b98e4ebdc11b50719df75c",
 				"member_since": "2021-03-12",
 				"name": "DFAM1"
